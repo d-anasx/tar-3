@@ -1,0 +1,67 @@
+{
+  "employees": 
+   [
+  {
+    "id": "e1",
+    "nomEmp": "Lamrabet",
+    "prenomEmp": "Oussama",
+    "poste": "Directeur",
+    "département": {
+      "codeDep": "1",
+      "nomDep": "RH"
+    }
+  },
+  {
+    "id": "e2",
+    "nomEmp": "Bennani",
+    "prenomEmp": "Sara",
+    "poste": "Responsable RH",
+    "département": {
+      "codeDep": "1",
+      "nomDep": "RH"
+    }
+  },
+  {
+    "id": "e3",
+    "nomEmp": "El Ghazi",
+    "prenomEmp": "Amine",
+    "poste": "Ingénieur",
+    "département": {
+      "codeDep": "2",
+      "nomDep": "Informatique"
+    }
+  },
+  {
+    "id": "e4",
+    "nomEmp": "Alaoui",
+    "prenomEmp": "Rachid",
+    "poste": "Technicien",
+    "département": {
+      "codeDep": "3",
+      "nomDep": "Maintenance"
+    }
+  },
+  {
+    "id": "e5",
+    "nomEmp": "Kabbaj",
+    "prenomEmp": "Nawal",
+    "poste": "Comptable",
+    "département": {
+      "codeDep": "4",
+      "nomDep": "Finance"
+    }
+  },
+  {
+    "id": "e6",
+    "nomEmp": "Bouyahya",
+    "prenomEmp": "Youssef",
+    "poste": "Analyste",
+    "département": {
+      "codeDep": "5",
+      "nomDep": "Marketing"
+    }
+  }
+]
+
+  
+}
